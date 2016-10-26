@@ -2,7 +2,8 @@
 public class Variables {
 
 	public static void main(String[] args) {
-		// 
+		// Comment 1 input 10.26.16
+		// comment 2 for testing git
 		int a = 63;
 		int b = 45;
 		a = b;
